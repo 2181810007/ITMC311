@@ -1,0 +1,11 @@
+<resources>
+    <color name="green_200">#FFA5D6A7</color>
+    <color name="green_500">#FF4CAF50</color>
+    <color name="green_700">#FF2E7D32</color>
+    <color name="yellow_700">#FFFFA000</color>
+    <color name="red_700">#FFD32F2F</color>
+    <color name="black">#FF212121</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_gray">#FFF2F2F2</color>
+    <color name="text_dark">#FF333333</color>
+</resources>

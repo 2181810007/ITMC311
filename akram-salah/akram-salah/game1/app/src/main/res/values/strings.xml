@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Big Number Game</string>
+    <string name="game_title">Big Number Game</string>
+    <string name="correct_message">Correct!</string>
+    <string name="wrong_message">Wrong!</string>
+    <string name="points_text">Points: %1$d</string>
+    <string name="zero">0</string>
+    <string name="button_left_description">Left number button</string>
+    <string name="button_right_description">Right number</string>
+</resources>
